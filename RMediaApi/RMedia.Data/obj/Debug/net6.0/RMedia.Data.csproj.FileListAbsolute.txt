@@ -1,0 +1,12 @@
+C:\repos\RMedia\RMediaApi\RMedia.Data\obj\Debug\net6.0\RMedia.Data.csproj.AssemblyReference.cache
+C:\repos\RMedia\RMediaApi\RMedia.Data\obj\Debug\net6.0\RMedia.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\RMedia\RMediaApi\RMedia.Data\obj\Debug\net6.0\RMedia.Data.AssemblyInfoInputs.cache
+C:\repos\RMedia\RMediaApi\RMedia.Data\obj\Debug\net6.0\RMedia.Data.AssemblyInfo.cs
+C:\repos\RMedia\RMediaApi\RMedia.Data\obj\Debug\net6.0\RMedia.Data.csproj.CoreCompileInputs.cache
+C:\repos\RMedia\RMediaApi\RMedia.Data\bin\Debug\net6.0\RMedia.Data.deps.json
+C:\repos\RMedia\RMediaApi\RMedia.Data\bin\Debug\net6.0\RMedia.Data.dll
+C:\repos\RMedia\RMediaApi\RMedia.Data\bin\Debug\net6.0\RMedia.Data.pdb
+C:\repos\RMedia\RMediaApi\RMedia.Data\obj\Debug\net6.0\RMedia.Data.dll
+C:\repos\RMedia\RMediaApi\RMedia.Data\obj\Debug\net6.0\refint\RMedia.Data.dll
+C:\repos\RMedia\RMediaApi\RMedia.Data\obj\Debug\net6.0\RMedia.Data.pdb
+C:\repos\RMedia\RMediaApi\RMedia.Data\obj\Debug\net6.0\ref\RMedia.Data.dll

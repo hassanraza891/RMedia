@@ -1,0 +1,15 @@
+C:\repos\RMedia\RMediaApi\RMedia.Service\obj\Debug\net6.0\RMedia.Service.csproj.AssemblyReference.cache
+C:\repos\RMedia\RMediaApi\RMedia.Service\obj\Debug\net6.0\RMedia.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\RMedia\RMediaApi\RMedia.Service\obj\Debug\net6.0\RMedia.Service.AssemblyInfoInputs.cache
+C:\repos\RMedia\RMediaApi\RMedia.Service\obj\Debug\net6.0\RMedia.Service.AssemblyInfo.cs
+C:\repos\RMedia\RMediaApi\RMedia.Service\obj\Debug\net6.0\RMedia.Service.csproj.CoreCompileInputs.cache
+C:\repos\RMedia\RMediaApi\RMedia.Service\bin\Debug\net6.0\RMedia.Service.deps.json
+C:\repos\RMedia\RMediaApi\RMedia.Service\bin\Debug\net6.0\RMedia.Service.dll
+C:\repos\RMedia\RMediaApi\RMedia.Service\bin\Debug\net6.0\RMedia.Service.pdb
+C:\repos\RMedia\RMediaApi\RMedia.Service\bin\Debug\net6.0\RMedia.Data.dll
+C:\repos\RMedia\RMediaApi\RMedia.Service\bin\Debug\net6.0\RMedia.Data.pdb
+C:\repos\RMedia\RMediaApi\RMedia.Service\obj\Debug\net6.0\RMedia.Service.csproj.CopyComplete
+C:\repos\RMedia\RMediaApi\RMedia.Service\obj\Debug\net6.0\RMedia.Service.dll
+C:\repos\RMedia\RMediaApi\RMedia.Service\obj\Debug\net6.0\refint\RMedia.Service.dll
+C:\repos\RMedia\RMediaApi\RMedia.Service\obj\Debug\net6.0\RMedia.Service.pdb
+C:\repos\RMedia\RMediaApi\RMedia.Service\obj\Debug\net6.0\ref\RMedia.Service.dll

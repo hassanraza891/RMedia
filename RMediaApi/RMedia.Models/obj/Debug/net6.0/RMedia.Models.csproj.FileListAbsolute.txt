@@ -1,0 +1,12 @@
+C:\repos\RMedia\RMediaApi\RMedia.Models\obj\Debug\net6.0\RMedia.Models.csproj.AssemblyReference.cache
+C:\repos\RMedia\RMediaApi\RMedia.Models\obj\Debug\net6.0\RMedia.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\RMedia\RMediaApi\RMedia.Models\obj\Debug\net6.0\RMedia.Models.AssemblyInfoInputs.cache
+C:\repos\RMedia\RMediaApi\RMedia.Models\obj\Debug\net6.0\RMedia.Models.AssemblyInfo.cs
+C:\repos\RMedia\RMediaApi\RMedia.Models\obj\Debug\net6.0\RMedia.Models.csproj.CoreCompileInputs.cache
+C:\repos\RMedia\RMediaApi\RMedia.Models\bin\Debug\net6.0\RMedia.Models.deps.json
+C:\repos\RMedia\RMediaApi\RMedia.Models\bin\Debug\net6.0\RMedia.Models.dll
+C:\repos\RMedia\RMediaApi\RMedia.Models\bin\Debug\net6.0\RMedia.Models.pdb
+C:\repos\RMedia\RMediaApi\RMedia.Models\obj\Debug\net6.0\RMedia.Models.dll
+C:\repos\RMedia\RMediaApi\RMedia.Models\obj\Debug\net6.0\refint\RMedia.Models.dll
+C:\repos\RMedia\RMediaApi\RMedia.Models\obj\Debug\net6.0\RMedia.Models.pdb
+C:\repos\RMedia\RMediaApi\RMedia.Models\obj\Debug\net6.0\ref\RMedia.Models.dll
